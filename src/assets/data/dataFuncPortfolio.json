@@ -1,0 +1,290 @@
+[
+  {
+    "name": "(주)상록영상",
+    "data": [{
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_ybm0501.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_ybm.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_ybm0502.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0503.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0504.jpg"],
+        "tit": "YBM-GAME-RIVERCROSSING",
+        "subj": "YBM Readers는 독서 경험이 중요한 시기의 학습자들에게 단순한 티칭(teaching)이 아닌 함께 생각하고 학습 방향을 제시하는 코칭(coaching)교육을 지향합니다.",
+        "detailsubj": "YBM-READERS  길 건너는 게임입니다. \n100% 순수 자바스크립트로 구현된 프로젝트로, 자바스크립트의 동적 마크업 생성 및 컨트롤 조작을 따로 하여, 유지 보수 편에서 수월하게 제작되었습니다. \n각 장애물의 interval 구현으로 움직임을 표현하며, keybind 와 click으로 조작 가능합니다. \n토끼 엘리먼트의 움직임과 동시에 장애물의 안에 별의 위치값을 찾아 포이트획득 할 수 있습니다.",
+        "mode": "js,IE10++",
+        "href": "https://leemheeje.github.io/06_YBM-GAME-RiverCrossing/html/",
+        "chat": 100
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img22.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img22.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img22_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img22_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img22_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img22_04.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img22_05.jpg"],
+        "tit": "한국과학창의재단-크레존",
+        "subj": "창의체험활동, 창의체험 프로그램, 창의인성교육, 현장체험학습, 지속가능발전교육, 자유학기제 체험활동",
+        "detailsubj": "2차 리뉴얼 및 상시 운영 업무를 하였던 프로젝트입니다.\n가장 큰 특징을 말씀드리자면 구축 당시 워드프레스로 제작이 되었던 것인데요 \n구축을 제가 한 것은 아니지만 리뉴얼 및 운영 업무를 하다 보니 워드프레스에 관련하여 공부를 조금씩 되었습니다. \n현재 페이지(currentPage)의 대한 파라미터 값 체크를 더욱 고도화시켜 메뉴 이동의 오류를 해결하였으며, 기존엔 적용되지 않았던 UI 동적 구현을 하였습니다.",
+        "mode": "cms,js,res,IE9++",
+        "href": "https://www.crezone.net",
+        "chat": 80
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_ybm0201.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_ybm.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_ybm0202.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0203.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0204.jpg"],
+        "tit": "YBM-GAME-BASEBALL",
+        "subj": "YBM Readers는 독서 경험이 중요한 시기의 학습자들에게 단순한 티칭(teaching)이 아닌 함께 생각하고 학습 방향을 제시하는 코칭(coaching)교육을 지향합니다.",
+        "detailsubj": "YBM-READERS 홈런더비 게임입니다. \n100% 순수 자바스크립트로 구현된 프로젝트로, 자바스크립트의 동적 마크업 생성 및 컨트롤 조작을 따로 하여, 유지 보수 편에서 수월하게 제작되었습니다. \n야구공의 움직임은 interval과 살짝 틀어져 보이는 과녁 및 야구공의 괘도는 css3루 구현하였습니다. \n타격 후 점수 및 전광판 표시는 callback으로 처리하였습니다.",
+        "mode": "js,IE10++",
+        "href": "https://leemheeje.github.io/06_YBM-GAME-BASEBALL/html/",
+        "chat": 100
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_ybm0301.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_ybm.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_ybm0302.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0303.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0304.jpg"],
+        "tit": "YBM-GAME-CROCODILE",
+        "subj": "YBM Readers는 독서 경험이 중요한 시기의 학습자들에게 단순한 티칭(teaching)이 아닌 함께 생각하고 학습 방향을 제시하는 코칭(coaching)교육을 지향합니다.",
+        "detailsubj": "YBM-READERS 악어 게임입니다. \n100% 순수 자바스크립트로 구현된 프로젝트이며 READERS 프로젝트 중 비교적(?) 쉬운 작업이었습니다. \ninterval, click, callback 등등 기본적인 요소만 사용되었습니다.",
+        "mode": "js,IE10++",
+        "href": "https://leemheeje.github.io/YBM-GAME-CROCO/html/",
+        "chat": 100
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_ybm0101.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_ybm.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_ybm0102.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0103.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0104.jpg"],
+        "tit": "YBM-GAME-BULDBRIDGE",
+        "subj": "YBM Readers는 독서 경험이 중요한 시기의 학습자들에게 단순한 티칭(teaching)이 아닌 함께 생각하고 학습 방향을 제시하는 코칭(coaching)교육을 지향합니다.",
+        "detailsubj": "YBM-READERS 블록 쌓기 게임입니다. \n자바스크립트로 구현된 프로젝트이며 jQueryUI Slider가 추가되었습니다. \n제가 YBM-READERS 프로젝트 중 저를 가장 힘들게 했던 개발 요소였는데요. \n이유는 블록을 하나하나 쌓을 때의 물리적 공식(?)을 구하기가 너무 힘들었습니다. \n결국 블록 개수의 제한을 두고.. \n- 가이드라인 : limitGuideLine \n- 이전 블록 : prevDropBoxObj \n- 현재 블록 : crrtWidthBoxObj \n- 다음 블록 : boxHistroyArry \n위 4가지 객체로 3가지 조건을 충족시켜 구현하였습니다.",
+        "mode": "js,IE10++",
+        "href": "https://leemheeje.github.io/YBM-GAME/html/",
+        "chat": 100
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_ybm0401.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_ybm.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_ybm0402.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0403.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_ybm0404.jpg"],
+        "tit": "YBM-GAME-YAMMYPUZZLE",
+        "subj": "YBM Readers는 독서 경험이 중요한 시기의 학습자들에게 단순한 티칭(teaching)이 아닌 함께 생각하고 학습 방향을 제시하는 코칭(coaching)교육을 지향합니다.",
+        "detailsubj": "YBM-READERS 드래그 퍼즐게임입니다.\n 이 게임 같은 경우 제가 구축을 하진 않았고요 저는 추후에 기능 오류를 잡았습니다. \n내용은... 드래그 연결시 중간에 공란이 있어도 연결이 되는 것을 막아달라는 것이었는데요. \n기존 작업자의 소스를 모두 파악하고 작업하기엔 시간적으로 무리라고 생각하여 \n만들어놓은 소스를 해치지 않기 위해 최대한 호출 후 콜백으로 처리하였습니다.",
+        "mode": "js,IE10++",
+        "href": "접속오류..",
+        "chat": 20
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img21.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img20.jpg",
+        "subImgs": [],
+        "tit": "강남구청-인터넷수능방송-MOB",
+        "subj": "언어, 수리, 외국어, 사회탐구, 논술 등 인터넷강좌 안내, 입시 정보, 수능 후기.",
+        "mode": "js",
+        "href": "http://edu.ingang.go.kr/NGLMS/High/UserMain.do",
+        "chat": 50,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img20.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img20.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img20_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img20_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_04.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_05.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_06.jpg"],
+        "tit": "강남구청-인터넷수능방송-PC",
+        "subj": "언어, 수리, 외국어, 사회탐구, 논술 등 인터넷강좌 안내, 입시 정보, 수능 후기.",
+        "mode": "js,web,IE8++",
+        "href": "http://edu.ingang.go.kr/NGLMS/High/UserMain.do",
+        "chat": 80
+      }
+    ]
+  },
+  {
+    "name": "(주)싸이웍스",
+    "data": [{
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img11.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img11.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img11_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_04.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_05.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img11_06.jpg"],
+        "tit": "한국한의학연구원-미병",
+        "subj": "이 어플리케이션은 일상 생활에서 사용자의 미병을 평가하고 관리방법을 제공하기 위한 한의학 기반 예방관리 프로그램입니다. 현재 등록된 어플리케이션은 임상연구 수행을 위한 버전으로, 일반 사용자가 활용할 때는 자료 또는 기능에 제한이 있습니다.",
+        "detailsubj": "한국 한의학연구원의 수주로 진행되었던 하이브리드 앱입니다. \n신규 구축이 아닌 2차 개선에 참여하였으며, 중점적으로 하였던 작업은 기존에 jQueryMobile로 작업되었던 부분은 제거하고 일반적인 페이지 이동형식으로 변경하는 것입니다.(고객사 요청) \nhtml, css, js 업무로 작업되었으며 하이브리드 앱 작업은 개발자가 하였습니다.",
+        "mode": "js,hyb",
+        "href": "https://play.google.com/store/apps/details?id=kr.re.kiom.mibyeong.app",
+        "chat": 55,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img14.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img14.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img14_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_04.jpg"],
+        "tit": "MCARE_V1.0",
+        "subj": "부산대병원 진료&길찾기 앱은 부산대학교병원 내부를 어디든 쉽게 찾아갈 수 있는 길찾기 기능을 제공합니다. 또한 병원에 방문하시는 경우 필요한 원무과 번호표발급, 진료 대기순서 확인 및 수납후 가셔야할 곳을 확인할 수 있습니다. ",
+        "detailsubj": "엠케이어 작업은 대략 2개월 정도 걸린 작업이었는데요. \n타입을 3가지로 나뉘어 관리자가 디자인을 선택할 수 있는 구조입니다.(디자인) \n상단의 선언된 글로벌 객체로 디자인&js 호출 이 변경되는 방식입니다. \nglobalDsgType = {\n/* \ntypeNum : 0 //디자인타입A \ntypeNum : 1 //디자인타입B \ntypeNum : 2 //디자인타입C \n*/ \ntypeNum: 0, \n}; \n서버사이드 쪽에서 관리하여 템플릿 변경 개념으로 가는 게 일반적이고 성능 측면에서 더욱 좋앗겟지만 여건상 그러지 못하여 js로 구분 판단 시어 해결할 수밖엔 없었습니다.",
+        "mode": "cms,hyb,js",
+        "href": "http://hjbam0220.dothome.co.kr/dataBankHtml/coding_list.html",
+        "chat": 99,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img02.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img14.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img02_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_04.jpg"],
+        "tit": "MCARE_V2.0",
+        "subj": "부산대병원 진료&길찾기 앱은 부산대학교병원 내부를 어디든 쉽게 찾아갈 수 있는 길찾기 기능을 제공합니다. 또한 병원에 방문하시는 경우 필요한 원무과 번호표발급, 진료 대기순서 확인 및 수납후 가셔야할 곳을 확인할 수 있습니다. ",
+        "detailsubj": "엠케이어 작업은 대략 2개월 정도 걸린 작업이었는데요. \n타입을 3가지로 나뉘어 관리자가 디자인을 선택할 수 있는 구조입니다.(디자인) \n상단의 선언된 글로벌 객체로 디자인&js 호출 이 변경되는 방식입니다. \nglobalDsgType = {\n/* \ntypeNum : 0 //디자인타입A \ntypeNum : 1 //디자인타입B \ntypeNum : 2 //디자인타입C \n*/ \ntypeNum: 0, \n}; \n서버사이드 쪽에서 관리하여 템플릿 변경 개념으로 가는 게 일반적이고 성능 측면에서 더욱 좋앗겟지만 여건상 그러지 못하여 js로 구분 판단 시어 해결할 수밖엔 없었습니다.",
+        "mode": "cms,hyb,js",
+        "href": "http://hjbam0220.dothome.co.kr/dataBankHtml/coding_list.html",
+        "chat": 99,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img15.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img14.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img15_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_cm_04.jpg"],
+        "tit": "MCARE_V3.0",
+        "subj": "부산대병원 진료&길찾기 앱은 부산대학교병원 내부를 어디든 쉽게 찾아갈 수 있는 길찾기 기능을 제공합니다. 또한 병원에 방문하시는 경우 필요한 원무과 번호표발급, 진료 대기순서 확인 및 수납후 가셔야할 곳을 확인할 수 있습니다. ",
+        "detailsubj": "엠케이어 작업은 대략 2개월 정도 걸린 작업이었는데요. \n타입을 3가지로 나뉘어 관리자가 디자인을 선택할 수 있는 구조입니다.(디자인) \n상단의 선언된 글로벌 객체로 디자인&js 호출 이 변경되는 방식입니다. \nglobalDsgType = {\n/* \ntypeNum : 0 //디자인타입A \ntypeNum : 1 //디자인타입B \ntypeNum : 2 //디자인타입C \n*/ \ntypeNum: 0, \n}; \n서버사이드 쪽에서 관리하여 템플릿 변경 개념으로 가는 게 일반적이고 성능 측면에서 더욱 좋앗겟지만 여건상 그러지 못하여 js로 구분 판단 시어 해결할 수밖엔 없었습니다.",
+        "mode": "cms,hyb,js",
+        "href": "http://hjbam0220.dothome.co.kr/dataBankHtml/coding_list.html",
+        "chat": 99,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img08.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img08.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img08_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img08_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img08_03.jpg"],
+        "tit": "이화여대-포트폴리오-PC",
+        "subj": "THE포트폴리오는 이화여대의 전공, 교양, 비교과 체계를 중심으로 학생들의 학습 및 교내외 활동 등의 정보를 분석하여 맞춤형 학습활동 및 미래진로 설계를 지원하는 시스템입니다.",
+        "mode": "ie9++,js",
+        "href": "http://the.ewha.ac.kr/user/main.do",
+        "chat": 70
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img10.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img08.jpg",
+        "tit": "이화여대-포트폴리오-MOB",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img10_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img10_02.jpg"],
+        "subj": "이화여자대학교 공식 앱입니다. 학교 주요 정보 및 교내 구성원이 사용할 수 있는 다양한 서비스를 제공합니다.",
+        "mode": "res,js",
+        "href": "http://the.ewha.ac.kr/m/user/main.do",
+        "chat": 70,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img03.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img03.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img03_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img03_02.jpg"],
+        "tit": "강남대학교",
+        "subj": "밤과 낮 시간에 따라 배경이 변경되며 관리자 설정에 따라 비주얼 이미지를 동영상으로 변경하여 필요에 따라 임팩트 있는 메인 페이지 관리가 가능함상단과 하단을 다양한 UI로 사용자에게 제공할 수 있는것이 최대 장점.",
+        "mode": "cms,IE8++,js,res",
+        "href": "http://web.kangnam.ac.kr"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img13.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img03.jpg",
+        "tit": "강남대학교-발전기금",
+        "subj": "밤과 낮 시간에 따라 배경이 변경되며 관리자 설정에 따라 비주얼 이미지를 동영상으로 변경하여 필요에 따라 임팩트 있는 메인 페이지 관리가 가능함상단과 하단을 다양한 UI로 사용자에게 제공할 수 있는것이 최대 장점.",
+        "mode": "cms,IE8++,js,res",
+        "href": "http://give.kangnam.ac.kr/",
+        "chat": 85
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img04.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img04.jpg",
+        "tit": "CMS-SYWORKS",
+        "subj": "",
+        "href": "접근불가한 사이트입니다.",
+        "mode": "cms,IE8++,js"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img16.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img16.jpg",
+        "tit": "한국금융연수원-MYKBI",
+        "subj": "한국 금융연수원 대표 웹사이트(PC/모바일), 용이한 학습컨텐츠 제공을 위한 시각화 및 금융 전문가 분야별 연수과정 로드맵 적용",
+        "mode": "IE7++,js",
+        "href": "http://www.kbi.or.kr"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img09.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img16.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img09_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img09_02.jpg"],
+        "tit": "한국금융연수원-MOB",
+        "subj": "한국 금융연수원 대표 웹사이트(PC/모바일), 용이한 학습컨텐츠 제공을 위한 시각화 및 금융 전문가 분야별 연수과정 로드맵 적용",
+        "mode": "IE7++,js,res",
+        "href": "http://www.kbi.or.kr/home/Common.do?cmd=goIndex&mobile_yn=Y",
+        "chat": 80,
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img05.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img16.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img05_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img05_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img05_03.jpg"],
+        "tit": "한국금융연수원-PC",
+        "subj": "한국 금융연수원 대표 웹사이트(PC/모바일), 용이한 학습컨텐츠 제공을 위한 시각화 및 금융 전문가 분야별 연수과정 로드맵 적용",
+        "mode": "IE7++,js",
+        "href": "http://www.kbi.or.kr",
+        "chat": 50
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img06.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img04.jpg",
+        "tit": "WESS-현장실습시스템",
+        "subj": "NCS기반의 현장실습지원시스템 국가직무능력표준의 모듈을 적용하여 현장실습을 진행하는 학생들이 NCS교육과정과 연계하여 현장실습을 진행할수 있습니다.",
+        "mode": "ie9++",
+        "href": "https://ipp.dongguk.edu/index.do"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img07.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img07.jpg",
+        "tit": "해성산업",
+        "subj": "해성산업 관계사 소개, 해성그룹 계열사, 오피스 임대업, 부동산 전문기업",
+        "mode": "IE8++",
+        "href": "http://www.haesungind.co.kr/"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_02.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_03.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img_04.jpg"],
+        "tit": "한라대학교-MOB",
+        "subj": "한라대학교의 Brand Identity를 나타낼 수 있도록 밝고 생동감 있는 디자인 적용하였으며, Hybrid앱 방식으로 개발하여 접근성 및 운영의 편리함까지 확보",
+        "mode": "hyb,js",
+        "href": "https://play.google.com/store/apps/details?id=kr.ac.halla.apps.hallamobile",
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img12.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img12.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img12_01.jpg", "//leemheeje.github.io/PUB_DATA/images/pp_img12_02.jpg"],
+        "tit": "단국대학교-MOB",
+        "subj": "단국대학교 공식 모바일 어플리케이션 본 단국대학교 앱은 정보화기획센터에서 학내 구성원을 대상으로 서비스하는 공식 앱으로, 로그인 이후 서비스 이용이 가능합니다.본 앱은 모바일Push알림서비스, 포털, 웹정보시스템, 취업, 이러닝, 도서관, 생활관 등의 서비스를 제공합니다.",
+        "mode": "hyb,js",
+        "href": "https://play.google.com/store/apps/details?id=com.sfactory.newdankook",
+        "device": "mob"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img17.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/noThumbImg.png",
+        "tit": "인플러스간호학원",
+        "subj": "이 어플리케이션은 일상 생활에서 사용자의 미병을 평가하고 관리방법을 제공하기 위한 한의학 기반 예방관리 프로그램입니다. 현재 등록된 어플리케이션은 임상연구 수행을 위한 버전으로, 일반 사용자가 활용할 때는 자료 또는 기능에 제한이 있습니다.",
+        "mode": "IE9++",
+        "href": "http://inplusnr.co.kr/",
+        "chat": 30
+      }
+    ]
+  },
+  {
+    "name": "프리랜서 활동",
+    "data": [{
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img18.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img18.jpg",
+        "tit": "국토교통사이버안전센터",
+        "subj": "",
+        "mode": "IE8++,js"
+      },
+      {
+        "img": "//leemheeje.github.io/PUB_DATA/images/pp_img19.jpg",
+        "thumbnail": "//leemheeje.github.io/PUB_DATA/images/thumbnail/pp_img18.jpg",
+        "subImgs": ["//leemheeje.github.io/PUB_DATA/images/pp_img19_01.jpg"],
+        "tit": "T&D소프트",
+        "subj": "",
+        "mode": "js,IE8++",
+        "href": "http://dev.tndsoft.com:8088/"
+      }
+    ]
+  },
+  {
+    "name": "기타 경력사항",
+    "data": []
+  }
+]

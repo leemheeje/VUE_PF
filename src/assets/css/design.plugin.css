@@ -1,0 +1,34 @@
+@charset 'utf-8';
+
+.cmmLocLaypop{}
+.cmm_layerpop{display: none;}
+.laypopWarp *{box-sizing: border-box;}
+.laypopWarp{position: absolute; left: 0; top: 50px; width: 100%; text-align: center; z-index: 101;}
+.laypopWarp .laypopIn{background: #fff; border-radius: 5px; box-shadow: 0 20px 30px rgba(0,0,0,0.2); display: inline-block; min-width: 320px; text-align: left; position: relative; z-index: 101;}
+.laypopWarp .laypopIn .laypopTit,
+.laypopWarp .laypopIn .laypopBottom,
+.laypopWarp .laypopIn .laypopCont{padding: 15px 20px;}
+.laypopWarp .laypopIn .laypopTit{border-bottom: 1px solid #ddd; text-align: left; font-size: 14px; font-weight: bold; position: relative;}
+.laypopWarp .laypopIn .laypopTit .layClosebtn{position: absolute; right: 0; top: 0; width: 50px; height: 100%; border-left: 1px solid #ddd;}
+.laypopWarp .laypopIn .laypopTit .layClosebtn span[class^="ti-"]{position: absolute; left: 0; width: 100%; text-align: center; top: 50%; margin-top: -7px;}
+.laypopWarp .laypopIn .laypopBottom{border-top: 1px solid #ddd; text-align: center;}
+.laypopWarp .laypopIn .laypopBottom .layClosebtn,
+.laypopWarp .laypopIn .laypopBottom .laySmtbtn{display: inline-block; vertical-align: middle; min-width: 60px; height: 30px; line-height: 30px; text-align: center; border-radius: 3px; padding: 0 5px; margin: 0 3px;}
+.laypopWarp .laypopIn .laypopBottom .layClosebtn{background: #eee; color: #222;}
+.laypopWarp .laypopIn .laypopBottom .laySmtbtn{background: #222; color: #fff;}
+.laypopWarp .laypopIn .laypopCont{padding-top: 20px; padding-bottom: 20px;}
+
+@media only screen and (max-width: 960px){
+	.laypopWarp{width: 90%; left: 5%;}
+	.laypopWarp .laypopIn{width: 100% !important;}
+}
+
+/* 스크롤*/
+.scr_wrap{position: relative;}
+.scr_wrap .scr_bar{height: 100%; background: #eee; border-radius: 10px; width: 5px; position: absolute; right: 0; top: 0;}
+.scr_wrap .scr_bar .scr_btn{width: 100%; background: red; display: inline-block; border-radius: 20px; cursor: pointer;}
+
+/* IME */
+IME_KO{ime-mode:active;}
+IME_EN{ime-mode:inactive;}
+IME_ONLY_EN{ime-mode:disabled;}
